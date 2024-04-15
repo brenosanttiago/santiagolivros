@@ -1,0 +1,33 @@
+
+.catlivro{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 1500px;
+    background-color: white;
+    border-radius: 10px;
+    border-color: white;
+    border-width: 100px;
+}
+
+.produtolivro{
+    margin-inline: 15px;
+    margin-top: 5px;
+    margin-left: 20px;
+    width: 160px;
+    height: 200px;
+    background-color: transparent;
+    color: rgb(8,95,99);
+    font-size: 60%;
+    
+}
+.imgcat{
+    margin-top: 10px;
+    width: 100%;
+    height: 160px;
+    border-color: transparent;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+}
